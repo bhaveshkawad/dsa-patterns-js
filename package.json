@@ -1,0 +1,16 @@
+{
+  "name": "dsa-patterns-js",
+  "version": "1.0.0",
+  "description": "Data Structures & Algorithms patterns in JavaScript",
+  "keywords": [
+    "dsa",
+    "javascript",
+    "algorithms",
+    "patterns"
+  ],
+  "author": "Bhavesh Kawad",
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^17.1.2"
+  }
+}
